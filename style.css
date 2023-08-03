@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Roboto+Mono:wght@200&display=swap");
+body {
+  background-color: #f5f5f4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  padding: 20px 40px;
+}
+
+h1 {
+  font-size: 60px;
+  color: #5fbdca;
+  font-family: "Rubik", sans-serif;
+  margin: 10px 0;
+  text-transform: uppercase;
+  word-spacing: 8px;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: "Rubik", sans-serif;
+  color: #5fbdca;
+  font-weight: LIGHTER;
+  margin: 10px 0;
+  text-transform: uppercase;
+  word-spacing: 6px;
+  letter-spacing: 2px;
+}
+
+.info {
+  background-color: #5fbdca;
+  padding: 20px 40px;
+}
+
+.info h3 {
+  color: aliceblue;
+  font-family: "Rubik", sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.info p {
+  color: aliceblue;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  word-spacing: 4px;
+  line-height: 30px;
+}
+
+.info img {
+  position: absolute;
+  top: 80px;
+  right: 80px;
+  width: 24vw;
+  height: 30vh;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  float: right;
+  margin-left: 40px;
+}
+
+.a {
+  display: inline;
+}

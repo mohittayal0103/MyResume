@@ -1,0 +1,6 @@
+Calender - <i class="fa-thin fa-calendar-days" style="color: #ffffff;"></i>
+phone - <i class="fa-thin fa-phone" style="color: #ffffff;"></i>
+website - <i class="fa-thin fa-globe" style="color: #ffffff;"></i>
+mail -<i class="fa-thin fa-envelope" style="color: #ffffff;"></i>
+location - <i class="fa-thin fa-location-pin" style="color: #ffffff;"></i>
+male - <i class="fa-thin fa-person" style="color: #ffffff;"></i>

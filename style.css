@@ -16,11 +16,11 @@ body {
   width: 800px;
 } */
 nav {
-  padding: 20px 4px;
+  padding: 20px 10px;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   color: #5fbdca;
   font-family: "Rubik", sans-serif;
   margin: 10px 0;
@@ -30,10 +30,10 @@ h1 {
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 30px;
   font-family: "Rubik", sans-serif;
   color: #5fbdca;
-  font-weight: LIGHTER;
+  font-weight: lighter;
   margin: 10px 0;
   text-transform: uppercase;
   word-spacing: 6px;
@@ -42,10 +42,10 @@ h2 {
 
 .info {
   background-color: #5fbdca;
-  padding: 20px 4px;
+  padding: 20px 10px;
   display: flex;
   justify-content: space-between;
-  margin-top: 0 auto;
+  margin-top: 0;
 }
 
 .info h3 {
@@ -53,7 +53,7 @@ h2 {
   font-family: "Rubik", sans-serif;
   font-size: 25px;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .info p {
@@ -72,14 +72,33 @@ h2 {
   margin-top: -100px;
 }
 
-.info1 {
+.info2 {
   width: 30%;
-  /* margin-left: auto; */
+  margin-left: 10px;
 }
 
-.info2 {
+.info1 {
   width: 70%;
-  /* position: absolute;
-  top: 80px;
-  right: 80px; */
+}
+
+.icons {
+  background-color: #5fbdca;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+}
+
+.box {
+  width: 33.3%;
+  text-align: justify;
+}
+
+.box li {
+  margin-bottom: 20px;
+  margin-left: 10px;
+  font-size: 18px;
+  color: aliceblue;
+  font-family: "Rubik", sans-serif;
+  list-style-type: none;
 }
